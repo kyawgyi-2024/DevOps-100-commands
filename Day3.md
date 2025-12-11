@@ -1,4 +1,12 @@
-# DISABLE OR ENABLE SSH ROOT LOGIN
+# DISABLE OR ENABLE SSH ROOT LOGIN (Commands + Explanation)
+
+# What is “Disable or Enable SSH Root Login”?
+
+SSH Root Login = allowing the root user to log in directly via SSH.
+
+/etc/ssh/sshd_config
+
+### ==============================================================================
 
 ls -lah /etc/ssh               # List SSH configuration directory contents
 

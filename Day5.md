@@ -1,5 +1,8 @@
 ### SELinux Installation & Configuration
 
+### SELinux Installation & Configuration (Commands + Explanation)
+
+
 # SSH into server (using IP or hostname)
 ssh k@IP_ADDRESS
 ssh k@hostname

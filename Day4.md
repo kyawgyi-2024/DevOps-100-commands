@@ -1,4 +1,12 @@
-# SCRIPT EXECUTION PERMISSIONS (ALLOW EXECUTION OF SCRIPT)
+# SCRIPT EXECUTION PERMISSIONS (ALLOW EXECUTION OF SCRIPT) (Commands + Explanation)
+
+# What is SCRIPT EXECUTION PERMISSIONS?
+
+In Linux, script execution permission means giving a file the right to be executed (run) like a program.
+
+This permission is controlled by the execute bit (x).
+
+### =======================================================================================
 
 ssh koko@host                  # SSH into server using hostname
 ssh koko@ip                    # OR using IP address
