@@ -1,7 +1,4 @@
-### SELinux Installation & Configuration
-
-### SELinux Installation & Configuration (Commands + Explanation)
-
+### Day-5 : SELinux Installation & Configuration (Commands + Explanation)
 
 # SSH into server (using IP or hostname)
 ssh k@IP_ADDRESS
