@@ -1,4 +1,4 @@
-# DISABLE OR ENABLE SSH ROOT LOGIN (Commands + Explanation)
+# Day-3 : DISABLE OR ENABLE SSH ROOT LOGIN (Commands + Explanation)
 
 # What is “Disable or Enable SSH Root Login”?
 
