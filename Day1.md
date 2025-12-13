@@ -1,4 +1,4 @@
-# NON-INTERACTIVE SHELLS (Commands + Explanation)
+# Day-1 : NON-INTERACTIVE SHELLS (Commands + Explanation)
 
 # What is a Non-Interactive Shell?
 A non-interactive shell is a shell session that runs commands automatically without requiring user input.
